@@ -1,2 +1,0 @@
-# gemagb.github.io
-Portfolio
